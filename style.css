@@ -1,0 +1,42 @@
+ul{
+    font-family: Helvetica, sans-serif;
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
+.list{
+    text-align: left;
+    margin-left: 46%;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.image{
+    text-align: center;
+}
+
+h1{
+    color: palevioletred; 
+    font-size: 60px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding: 16px;
+}
+
+h2{
+    color: palevioletred; 
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding: 16px;
+}
+.p{
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
